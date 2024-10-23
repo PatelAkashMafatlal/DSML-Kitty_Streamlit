@@ -1,5 +1,3 @@
 scikit-learn
 pandas
-matplotlib
-seaborn
-stremlit
+streamlit

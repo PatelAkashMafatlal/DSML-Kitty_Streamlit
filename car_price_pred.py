@@ -5,7 +5,7 @@ import pickle
 cars_df = pd.read_csv("./cars24-car-price.csv")
 
 st.write(
-    """streamlit r
+    """
      # Cars24 Used Car Price Prediction
     """
 )
